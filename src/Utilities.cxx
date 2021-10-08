@@ -6,6 +6,10 @@
 #include "ParticleObject.h"
 #include <cmath>
 
+#include "ParticleObject.h"
+#include "PxPyPzE.h"
+#include "ABCD.h"
+
 namespace ABCFit{
 
   //Rescale particles e.g. jets to have zero mass where coodinates are given in PxPyPzE representation
